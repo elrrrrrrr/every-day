@@ -14,3 +14,5 @@
 .8  总算开始在[stackoverflow](http://www.stackoverflow.com)问问题，折腾了一下[Heroku](https://dashboard.heroku.com/apps),云平台,和期望不太相符
 
 .9  还是买了[阿里云](http://121.40.137.124:8999/)，开始尝试写[Gist](https://gist.github.com/elrrrrrrr/f411471f8c674f793eb3)
+
+.10 买下了[every-status](http://www.every-status.com)，项目正式启动；选了Mocha作为单元测试库(http://visionmedia.github.io/mocha/)；正式开始写(jade)[http://jade-lang.com/]。
