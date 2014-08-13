@@ -20,3 +20,5 @@
 .11 服务器部署[mongodb](http://docs.mongodb.org/manual/)，node选用[mongoose](http://mongoosejs.com/)作为驱动
 
 .12 初步选用[coffeescript](http://coffeescript.org)，文件组织方式待定，翻译的[编码指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
+
+.13 发现了一个很好用的类curl工具[httpid](https://github.com/jakubroztocil/httpie)
