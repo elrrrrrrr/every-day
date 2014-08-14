@@ -22,3 +22,5 @@
 .12 初步选用[coffeescript](http://coffeescript.org)，文件组织方式待定，翻译的[编码指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
 
 .13 发现了一个很好用的类curl工具[httpid](https://github.com/jakubroztocil/httpie)
+
+.14 觉得很累，休息一天。
