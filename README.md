@@ -24,3 +24,5 @@
 .13 发现了一个很好用的类curl工具[httpid](https://github.com/jakubroztocil/httpie)
 
 .14 觉得很累，休息一天。
+
+.15 处理模块引入异常，新建model层。
