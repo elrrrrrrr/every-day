@@ -28,3 +28,7 @@
 .15 处理模块引入异常，新建model层。
 
 .16 看了一天七龙珠，真好看。
+
+.17 锻炼身体。
+
+.18 看完了《编写可维护的JavaScript》，更新若干[gist](https://gist.github.com/elrrrrrrr)。多文件html线上平台[JSFiddle](http://jsfiddle.net/),单文件[compile online](http://www.compileonline.com/try_html5_online.php)
