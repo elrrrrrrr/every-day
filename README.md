@@ -49,4 +49,6 @@
 
 .26 折腾了微博第三方登录，还是无法彻底解决异步回调，暂时直接抛出Promise对象。新浪微博的Oauth感觉很奇怪，暴力使用 ^ ^ 。站点完全采用第三方登录。
 
-.27 完善了登录逻辑，就等着域名下来写到回调里去了。休息一天:)
+.27 完善了登录逻辑，就等着域名下来写到配置里去了。休息一天:)
+
+.28 [every-status.com](every-status.com)终于批下来了，终于削平了登录逻辑里的意大利面条，感谢[callback hell](http://callbackhell.com/)，今天记录了一下之前遇到的低版本浏览器相关Array的[fix](https://gist.github.com/elrrrrrrr/369c651e9a81e0eeb7f6)。
