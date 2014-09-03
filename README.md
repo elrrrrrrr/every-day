@@ -61,4 +61,6 @@
 
 .1 因为[pm2](https://github.com/Unitech/PM2)的关系，弄挂全站，没能通过新浪审核 T T ，今天陆续完善了小站，感觉一期快要告一段落。
 
-.2 [jade2mod](https://github.com/elrrrrrrr/jade2mod)发了第一个release，不知道有没有坑，还需要抽空完善一下文档。[through2](https://www.npmjs.org/package/through2)也是个蛮重要的东西，方便调用stream和pipe。
+.2 [gulp-jade2mod](https://github.com/elrrrrrrr/jade2mod)发了第一个release，不知道有没有坑，还需要抽空完善一下文档。[through2](https://www.npmjs.org/package/through2)也是个蛮好用的东西，方便调用stream和pipe。
+
+.3 由于jade提供的runtime模块不支持cortex，重新写了一个[jade-env](https://github.com/elrrrrrrr/jade-env)，总算在浏览器端比较好的编译jade，发现蛮久没有写html标签了，感觉真不错 : ) 。
