@@ -64,3 +64,7 @@
 .2 [gulp-jade2mod](https://github.com/elrrrrrrr/jade2mod)发了第一个release，不知道有没有坑，还需要抽空完善一下文档。[through2](https://www.npmjs.org/package/through2)也是个蛮好用的东西，方便调用stream和pipe。
 
 .3 由于jade提供的runtime模块不支持cortex，重新写了一个[jade-env](https://github.com/elrrrrrrr/jade-env)，总算在浏览器端比较好的编译jade，发现蛮久没有写html标签了，感觉真不错 : ) 。
+
+.4 写了原生的[swipeslide](https://gist.github.com/elrrrrrrr/d00b245c26b55a926a7f)组件，还在纠结怎么实现pan手势。感觉时间好不够用。
+
+.5 阿强推荐的测试好伙伴[supertest](https://github.com/visionmedia/supertest)。
