@@ -68,3 +68,5 @@
 .4 写了原生的[swipeslide](https://gist.github.com/elrrrrrrr/d00b245c26b55a926a7f)组件，还在纠结怎么实现pan手势。感觉时间好不够用。
 
 .5 阿强推荐的测试好伙伴[supertest](https://github.com/visionmedia/supertest)。
+
+.6 facebook的新开源框架[ReactJS](http://facebook.github.io/react/)，可以结合backbone。
