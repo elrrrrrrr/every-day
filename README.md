@@ -59,6 +59,11 @@
 
 .31 竟然是res.end(data)快! 完善了[every-status](http://www.every-status.com)，组建库[fragment](http://f.every-status.com)也已经上线
 
+* [九月](#Sep)
+
+<a  name="Sep"></a>
+###  九月
+
 .1 因为[pm2](https://github.com/Unitech/PM2)的关系，弄挂全站，没能通过新浪审核 T T ，今天陆续完善了小站，感觉一期快要告一段落。
 
 .2 [gulp-jade2mod](https://github.com/elrrrrrrr/jade2mod)发了第一个release，不知道有没有坑，还需要抽空完善一下文档。[through2](https://www.npmjs.org/package/through2)也是个蛮好用的东西，方便调用stream和pipe。
