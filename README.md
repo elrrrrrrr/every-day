@@ -76,4 +76,4 @@
 
 .6 facebook的新开源框架[ReactJS](http://facebook.github.io/react/)，可以结合backbone。
 
-.7 非常好用的注释生成器[docblockr](https://github.com/spadgos/sublime-jsdocs)，终于可以开始写注释了。慢慢打算从sublime迁移到atom上，是在吃不消保存闪退的问题。
+.7 非常好用的注释生成器[docblockr](https://github.com/spadgos/sublime-jsdocs)，终于可以开始写注释了。慢慢打算从sublime迁移到atom上，实在吃不消保存闪退的问题。项目根据开发进度，增加了deploy分之，慢慢切版本。
