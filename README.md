@@ -79,3 +79,5 @@
 .7 非常好用的注释生成器[docblockr](https://github.com/spadgos/sublime-jsdocs)，终于可以开始写注释了。慢慢打算从sublime迁移到atom上，实在吃不消保存闪退的问题。项目根据开发进度，增加了deploy分之，慢慢切版本。
 
 .8 新的开始
+
+.9 [flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)可以简单实现平铺，[webkit-box](https://gist.github.com/elrrrrrrr/d64f14b0cd68e6feefe0)可以很方便的实现多行文字，末尾替换省略号。
