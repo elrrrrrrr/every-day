@@ -87,3 +87,5 @@
 .10 关于css垂直居中的一些[实现](http://t.cn/RhycoGo?u=2017654444&m=3752262402525521&cu=2017654444)
 
 .11 [cheerio](https://github.com/cheeriojs/cheerio)可以用来解析爬虫拿到的页面。 另外不知道subl有没有啥插件也支持html选择器的api去选择编辑内容。
+
+.12 使用heredoc和[lodash](http://lodash.com)[渲染模版](https://gist.github.com/elrrrrrrr/175de2b90c430840bba6)，加上昨天的爬虫，可以很方便的实现poi信息抓取。
