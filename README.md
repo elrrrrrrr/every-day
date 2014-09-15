@@ -93,3 +93,5 @@
 .13 参加iweb上海分享，感觉[Hbuilder](http://dcloud.io/)和[Egret](http://egret-lab.org/)游戏引擎还不错。刚开始看AngularJs动物书，不过一直对Angular没什么感觉，可能和现在的业务有关系。
 
 .14 粗粗看完了《用AngularJS开发下一代Web应用》, Angular几乎可以让你完全忘记DOM，甚至页面交互和模版渲染，可是感觉真是爱不起来。
+
+.15 使用了[swipe](https://github.com/thebird/Swipe),看起来简单的效果实现起来还是很麻烦；发现新浪微博应用类型写错了，感觉好心酸。
