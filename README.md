@@ -97,3 +97,5 @@
 .15 使用了[swipe](https://github.com/thebird/Swipe),看起来简单的效果实现起来还是很麻烦；发现新浪微博应用类型写错了，感觉好心酸。
 
 .16 实现了AIR中配置文件热更新，每次都清空了require的[cache](http://stackoverflow.com/questions/1972242/auto-reload-of-files-in-node-js)
+
+.17 拖了很久，终于把subl代码[高亮][https://gist.github.com/elrrrrrrr/4c2f5a315f8d2b9a52cc]了，可以在JSON.stringify传入space参数控制缩进。
