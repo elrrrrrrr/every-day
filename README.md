@@ -61,8 +61,6 @@
 
 .31 竟然是res.end(data)快! 完善了[every-status](http://www.every-status.com)，组建库[fragment](http://f.every-status.com)也已经上线
 
-* [九月](#Sep)
-
 <a  name="Sep"></a>
 ###  九月
 
@@ -100,4 +98,4 @@
 
 .17 拖了很久，终于把subl代码[高亮](https://gist.github.com/elrrrrrrr/4c2f5a315f8d2b9a52cc)了，可以在JSON.stringify传入space参数控制缩进。
 
-.18 准备开始使用[spm](http://docs.spmjs.org/doc/)，[arale](http://aralejs.org/docs/about-arale.html)。
+.18 准备开始使用[spm](http://docs.spmjs.org/doc/)，[arale](http://aralejs.org/docs/about-arale.html)。在浏览器中引用npm包的插件[requirify](http://www.devspaper.com/2014/09/01/great-chrome-extension-requiring-npm-modules-in-the-browser-console/)
