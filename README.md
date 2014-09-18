@@ -98,4 +98,6 @@
 
 .16 实现了AIR中配置文件热更新，每次都清空了require的[cache](http://stackoverflow.com/questions/1972242/auto-reload-of-files-in-node-js)
 
-.17 拖了很久，终于把subl代码[高亮][https://gist.github.com/elrrrrrrr/4c2f5a315f8d2b9a52cc]了，可以在JSON.stringify传入space参数控制缩进。
+.17 拖了很久，终于把subl代码[高亮](https://gist.github.com/elrrrrrrr/4c2f5a315f8d2b9a52cc)了，可以在JSON.stringify传入space参数控制缩进。
+
+.18 准备开始使用[spm](http://docs.spmjs.org/doc/)，[arale](http://aralejs.org/docs/about-arale.html)。
