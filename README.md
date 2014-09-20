@@ -101,3 +101,5 @@
 .18 准备开始使用[spm](http://docs.spmjs.org/doc/)，[arale](http://aralejs.org/docs/about-arale.html)。在浏览器中引用npm包的插件[requirify](http://www.devspaper.com/2014/09/01/great-chrome-extension-requiring-npm-modules-in-the-browser-console/)
 
 .19 简介的在线编辑器[demos](http://demos.berwin.me/),感觉在线编辑也是一个挺好玩的东西,例如[pen](http://sofish.github.io/pen/)。
+
+.20 修复了线上的bug，希望应用审核能早日通过。看到了[D3](https://github.com/mbostock/d3/wiki/Gallery)的许多例子，感觉非常酷炫。看到了勾三股四的[h5slides](https://github.com/Jinjiang/h5slides)，想多加点功能 :sunny:
