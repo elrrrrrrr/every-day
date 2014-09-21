@@ -103,3 +103,5 @@
 .19 简介的在线编辑器[demos](http://demos.berwin.me/),感觉在线编辑也是一个挺好玩的东西,例如[pen](http://sofish.github.io/pen/)。
 
 .20 修复了线上的bug，希望应用审核能早日通过。看到了[D3](https://github.com/mbostock/d3/wiki/Gallery)的许多例子，感觉非常酷炫。看到了勾三股四的[h5slides](https://github.com/Jinjiang/h5slides)，想多加点功能 :sunny:
+
+.21 被豆瓣授权登录坑了不少，结果是因为获取token时需要添加在body中，果然每个平台都不一样。另外由于使用了pomise，好像所有的req都必须用pomise封装起来。代码渐渐失控，找天重新写遍。发现了的[github cheat sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
