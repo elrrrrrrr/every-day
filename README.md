@@ -111,3 +111,5 @@
 .23 把[jade-env](http://spmjs.io/package/jade-env)发布到了spm上，希望能尽快完成构建流程的迁移，明天瞧瞧[seajs-wrap](https://github.com/seajs/seajs-wrap)。
 
 .24 确定使用seajs作为前端模块加载器，开发期间暂时使用seajs-wrap调试。发现了[gulp-base64&css-sprites](https://gist.github.com/elrrrrrrr/26d392093f20acd83c69)自动拼接css中的图片，解放双手 0.0 
+
+.25 被新浪微博的应用审核折磨一整天... 明天重新抽象一下oauth代码, 再拖就要忘记了... 还要更新一下qinjs的文档
