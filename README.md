@@ -113,3 +113,12 @@
 .24 确定使用seajs作为前端模块加载器，开发期间暂时使用seajs-wrap调试。发现了[gulp-base64&css-sprites](https://gist.github.com/elrrrrrrr/26d392093f20acd83c69)自动拼接css中的图片，解放双手 0.0 
 
 .25 被新浪微博的应用审核折磨一整天... 明天重新抽象一下oauth代码, 再拖就要忘记了... 还要更新一下qinjs的文档
+
+.26 新浪的审核终于通过了，不知道申请网站接入能不能获得token值，明天终于可以测试了。发现了非常酷炫的开源[Ghost Hosting](https://ghost.org/)。
+
+.27 关于node中的ioc(依赖注入), TJ写的[node-di](https://github.com/vojtajina/node-di), 以及luin写的适用于express的[express-di](https://github.com/luin/express-di)，对于controller层依赖关系复杂的情况，可以很优雅的实现。希望有机会能尝试，虽然我现在写得最多也就两个控制器。。有空还要去尝试实现jquery的data方法，还没好好看过源码。
+
+.28 顺手水了一个pull request, @sofish小鱼的[wechat.js](https://github.com/sofish/wechat.js), 虽然马上都被改了, 也算多多学习代码风格。发现了pm2的部署工具[tiny-dploy](https://github.com/voronianski/node-tiny-dploy)，可惜pm2和我的阿里云水土不服。
+
+
+
