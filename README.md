@@ -8,6 +8,8 @@
 
 * [九月](#Sep)
 
+* [十月](#Oct)
+
 <a  name="Aug"></a>
 ###  八月
 
@@ -121,3 +123,10 @@
 .28 顺手水了一个pull request, @sofish小鱼的[wechat.js](https://github.com/sofish/wechat.js), 虽然马上都被改了, 也算多多学习代码风格。发现了pm2的部署工具[tiny-dploy](https://github.com/voronianski/node-tiny-dploy)，可惜pm2和我的阿里云水土不服。
 
 .29 报名参加了[D2大会](https://github.com/soulteary/Get-D2-2014-Ticket)，希望能通过审核呀。去除掉了恶心的新浪SDK，总算有一个可用版本。真的不太理解新浪审核的意义是什么。
+
+.30 开始看深入浅出NodeJs，实现[wechat.js](https://github.com/sofish/wechat.js)的多模块适配。
+
+<a  name="Oct"></a>
+###  十月
+
+.1 重新完善了一下[qinjs](https://github.com/elrrrrrrr/qinjs/issues)，添加了注释和TODO，掐指一算，剩下的时间也许真的不是很多啦，加油尽快弄出一个自己用的版本。
