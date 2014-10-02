@@ -130,3 +130,5 @@
 ###  十月
 
 .1 重新完善了一下[qinjs](https://github.com/elrrrrrrr/qinjs/issues)，添加了注释和TODO，掐指一算，剩下的时间也许真的不是很多啦，加油尽快弄出一个自己用的版本。
+
+.2 看完了深入浅出NodeJs，添加了[qin](https://github.com/NodeLab/qin)对post请求和条件判断的支持，向下兼容。
