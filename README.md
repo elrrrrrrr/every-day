@@ -132,3 +132,5 @@
 .1 重新完善了一下[qinjs](https://github.com/elrrrrrrr/qinjs/issues)，添加了注释和TODO，掐指一算，剩下的时间也许真的不是很多啦，加油尽快弄出一个自己用的版本。
 
 .2 看完了深入浅出NodeJs，添加了[qin](https://github.com/NodeLab/qin)对post请求和条件判断的支持，向下兼容。
+
+.3 发现了浏览器端的单元测试驱动[Karma](http://karma-runner.github.io/0.12/index.html)，结合mocha，可以在真实浏览器中对浏览器脚本进行单元测试。
