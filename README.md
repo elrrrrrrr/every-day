@@ -134,3 +134,7 @@
 .2 看完了深入浅出NodeJs，添加了[qin](https://github.com/NodeLab/qin)对post请求和条件判断的支持，向下兼容。
 
 .3 发现了浏览器端的单元测试驱动[Karma](http://karma-runner.github.io/0.12/index.html)，结合mocha，可以在真实浏览器中对浏览器脚本进行单元测试。
+
+.4 由于[saucelabs]速度限制，放弃karma作为测试集成方案，另phatomjs无法调用**Function.prototype.bind**方法
+
+.5 使用[mocha-phantomjs]集成单元测试，作为原型项目的测试框架，非常轻量级。期望之后国内有比较好的云浏览器平台吧 0.0
