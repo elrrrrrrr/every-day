@@ -4,11 +4,11 @@
 
 ##  日历
 
-* [八月](#Aug)
+* -[x] [八月](#Aug)
 
-* [九月](#Sep)
+* -[x] [九月](#Sep)
 
-* [十月](#Oct)
+* -[ ] [十月](#Oct)
 
 <a  name="Aug"></a>
 ###  八月
@@ -146,3 +146,5 @@
 .8 重新申请了github的education计划，这次上传了校园卡，但愿能过 0.0
 
 .9 写了一些关于单元测试的分享，没想到能被merge成一个独立[node课程](https://github.com/alsotang/node-lessons/tree/master/lesson7)，今天入职alipay，又是一个新的开始，加油加油。
+
+.10 自由、简单、强壮的多平台测试工具[totoro](http://totorojs.org/)。
