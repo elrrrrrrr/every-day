@@ -148,3 +148,7 @@
 .9 写了一些关于单元测试的分享，没想到能被merge成一个独立[node课程](https://github.com/alsotang/node-lessons/tree/master/lesson7)，今天入职alipay，又是一个新的开始，加油加油。
 
 .10 自由、简单、强壮的多平台测试工具[totoro](http://totorojs.org/)。
+
+.11 发现了不错的在线编辑平台[coding](http://coding.net)，支持代码托管、测试、服务继承、在线编辑、多人协作、私人仓库等...要是能支持yml配置就更好了。
+
+.12 第N次想学VIM，不过还是放弃了...老乡@幕陶的[dotfile](https://github.com/xujihui1985/dotfiles/blob/master/install_vim_plugin.sh),今天看了些es6语法糖,加上NVM,可以开始玩玩了，不过感觉和coffee真的好像，尤其是不定参数，参数默认值，箭头函数；还看了下stream和pipe，cluster、console、child-process，今天收获挺多，渐入佳境 :smile:
