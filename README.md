@@ -154,3 +154,7 @@
 .12 第N次想学VIM，不过还是放弃了...老乡@幕陶的[dotfile](https://github.com/xujihui1985/dotfiles/blob/master/install_vim_plugin.sh),今天看了些es6语法糖,加上NVM,可以开始玩玩了，不过感觉和coffee真的好像，尤其是不定参数，参数默认值，箭头函数；还看了下stream和pipe，cluster、console、child-process，今天收获挺多，渐入佳境 :smile:
 
 .13 写了个scafford的小工具[pokeball](https://github.com/NodleJS/pokeball)，继续用了commanderjs，这次加上了inquirer作输入提示。顺手添加了[every-status](http://every-status.com)的首页改版，着手写spm的版本管理工具。今天收获多多 :snake:
+
+.14 实现了简单的[spmv](https://github.com/elrrrrrrr/spmv)作spm的版本控制，还在`纠结`几个上线用的业务系统，好想打代码 ...
+
+.15 类似`es5-shim`的[es6-shim](https://github.com/paulmillr/es6-shim)，es6[入门教程](http://es6.ruanyifeng.com/)期待新的好像HTML5的标准快出了，期望ES6也能早日标准化...
