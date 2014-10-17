@@ -158,3 +158,7 @@
 .14 实现了简单的[spmv](https://github.com/elrrrrrrr/spmv)作spm的版本控制，还在`纠结`几个上线用的业务系统，好想打代码 ...
 
 .15 类似`es5-shim`的[es6-shim](https://github.com/paulmillr/es6-shim)，es6[入门教程](http://es6.ruanyifeng.com/)期待新的好像HTML5的标准快出了，期望ES6也能早日标准化...
+
+.16 参加了proparty的组内分享，@炫明师兄分享eventloop相关内容，感觉好有趣，哈哈。
+
+.17 完善了[spmv](https://github.com/elrrrrrrr/spmv)，基本可以满足简单需求，完善好文档和测试用例，基本就可以开源啦。另外发现了一个很好玩的把文字转成字符串图案的[小站](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
