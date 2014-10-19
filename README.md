@@ -163,6 +163,6 @@
 
 .17 完善了[spmv](https://github.com/elrrrrrrr/spmv)，基本可以满足简单需求，完善好文档和测试用例，基本就可以开源啦。另外发现了一个很好玩的把文字转成字符串图案的[小站](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
-.18 热烈欢迎前端同学@qinnnnnnn加入！开始动手实现点赞功能。
+.18 热烈欢迎前端同学@qinnnnnnn加入！开始动手实现点赞功能,都页面兼容性可以用[pageres](https://www.npmjs.org/package/pageres)保存快照。
 
 .19 quick & dirty 实现了点赞的借口, 另外准备使用[marked](https://www.npmjs.org/package/marked)添加新功能。
