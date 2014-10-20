@@ -166,3 +166,5 @@
 .18 热烈欢迎前端同学@qinnnnnnn加入！开始动手实现点赞功能,都页面兼容性可以用[pageres](https://www.npmjs.org/package/pageres)保存快照。
 
 .19 quick & dirty 实现了点赞的借口, 另外准备使用[marked](https://www.npmjs.org/package/marked)添加新功能。
+
+.20 添加markdown支持，但是样式还需要继续调整，不知道别的站点是不是有markdown的样式库。剩下分享功能一期基本就要完成了 ^ ^ 
