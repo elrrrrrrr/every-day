@@ -168,3 +168,5 @@
 .19 quick & dirty 实现了点赞的借口, 另外准备使用[marked](https://www.npmjs.org/package/marked)添加新功能。
 
 .20 添加markdown支持，但是样式还需要继续调整，不知道别的站点是不是有markdown的样式库。剩下分享功能一期基本就要完成了 ^ ^ 
+
+.21 实现微博分享功能，一些chrome开发者工具的小[tips](http://devtoolstips.com/)
