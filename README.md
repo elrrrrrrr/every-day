@@ -172,3 +172,11 @@
 .21 实现微博分享功能，一些chrome开发者工具的小[tips](http://devtoolstips.com/)
 
 .22 新的模版语言[numjucks](http://mozilla.github.io/nunjucks/cn/templating.html)
+
+.23 继续看ES6的generator和yield。
+
+.24 为了熟悉chair，今天看了KoaJS，CO，Thunk相关。
+
+.25 参加D2，终于听到了支付宝前后端分离。重新梳理了一下异步流程的一些解决方案，感觉还是最喜欢promise，嘿嘿。
+
+.26 不知道FibJS有什么坑，感觉很不错的样子。
