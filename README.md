@@ -180,3 +180,5 @@
 .25 参加D2，终于听到了支付宝前后端分离。重新梳理了一下异步流程的一些解决方案，感觉还是最喜欢promise，嘿嘿。
 
 .26 不知道FibJS有什么坑，感觉很不错的样子。
+
+.27 [ThreeJS](http://mrdoob.com/lab/javascript/threejs/css3d/periodictable/)非常酷炫的CSS3D库；[Node-Git](https://github.com/nodegit/nodegit)可以通过node来管理git代码仓库。@朴灵的[eventproxy](https://github.com/JacksonTian/eventproxy)，解决代码大部分回调问题
