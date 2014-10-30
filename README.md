@@ -182,3 +182,9 @@
 .26 不知道FibJS有什么坑，感觉很不错的样子。
 
 .27 [ThreeJS](http://mrdoob.com/lab/javascript/threejs/css3d/periodictable/)非常酷炫的CSS3D库；[Node-Git](https://github.com/nodegit/nodegit)可以通过node来管理git代码仓库。@朴灵的[eventproxy](https://github.com/JacksonTian/eventproxy)，解决代码大部分回调问题
+
+.28 用github的Outh API完成了用户签名，这周准备接入github登陆，感觉github的文档写得真好。
+
+.29 今天的pro-party的分享主题关于debug,介绍了热部署和调试器的tips,[node-inspector](https://github.com/node-inspector/node-inspector)特别推荐。
+
+.30 发现了比较喜欢的[uedetail](http://uedetail.com/)UI风格, 站点接入GA。
