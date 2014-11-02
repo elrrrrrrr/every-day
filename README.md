@@ -188,3 +188,7 @@
 .29 今天的pro-party的分享主题关于debug,介绍了热部署和调试器的tips,[node-inspector](https://github.com/node-inspector/node-inspector)特别推荐。
 
 .30 发现了比较喜欢的[uedetail](http://uedetail.com/)UI风格, 站点接入GA。
+
+.31 用多个controller级联实现解耦，用时间控制处理流程。有些事情就是实现以后才发现原来这么简单。
+
+
