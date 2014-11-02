@@ -8,7 +8,9 @@
 
 * -[x] [九月](#Sep)
 
-* -[ ] [十月](#Oct)
+* -[x] [十月](#Oct)
+
+* -[ ] [十一月](#Nov)
 
 <a  name="Aug"></a>
 ###  八月
@@ -189,6 +191,12 @@
 
 .30 发现了比较喜欢的[uedetail](http://uedetail.com/)UI风格, 站点接入GA。
 
-.31 用多个controller级联实现解耦，用时间控制处理流程。有些事情就是实现以后才发现原来这么简单。
+.31 用多个controller级联实现解耦，用时间控制处理流程。有些事情就是实现以后才发现原来这么简单。发工资了好开心 :）
 
+<a  name="Nov"></a>
+###  十一月
+
+.1 有一个简单实现[CO](https://github.com/tj/co)的库 -- [simple-co](https://github.com/ltebean/simple-co)，
+
+.2 准备用一天时间仔细用下[raphaeljs](http://raphaeljs.com/)图标库，CSS一直没好好花精力学。
 
