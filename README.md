@@ -200,3 +200,5 @@
 
 .2 准备用一天时间仔细用下[raphaeljs](http://raphaeljs.com/)图标库，CSS一直没好好花精力学。
 
+.3 纠结了一天的SVG path，感觉对绘图真是爱不起来。 T T
+
