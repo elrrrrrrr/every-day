@@ -200,5 +200,10 @@
 
 .2 准备用一天时间仔细用下[raphaeljs](http://raphaeljs.com/)图标库，CSS一直没好好花精力学。
 
-.3 纠结了一天的SVG path，感觉对绘图真是爱不起来。 T T
+.3 写了一个最简[markdown-css](https://github.com/elrrrrrrr/markdown-css)
 
+.4 纠结了一天的SVG path，感觉对绘图真是爱不起来。 T T
+
+.5 对PhatomJS封装的库[nightmare](http://www.nightmarejs.org/)，可以模拟用户操作。
+
+.6 基于[raphaeljs](http://raphaeljs.com/)，实现了简单SVG的ring图表。
