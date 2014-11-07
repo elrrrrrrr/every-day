@@ -206,4 +206,6 @@
 
 .5 对PhatomJS封装的库[nightmare](http://www.nightmarejs.org/)，可以模拟用户操作。
 
-.6 基于[raphaeljs](http://raphaeljs.com/)，实现了简单SVG的ring图表。
+.6 基于[raphaeljs](http://raphaeljs.com/)，实现了简单SVG的ring图表。携程的[webkit-css](http://ued.ctrip.com/webkitcss/)指南，很不错
+
+.7 慢慢上手了SVG，之前一直对svg有种恐惧感，实现之后又觉得都没什么难的，这种感觉真的挺奇怪的。
