@@ -204,8 +204,10 @@
 
 .4 纠结了一天的SVG path，感觉对绘图真是爱不起来。 T T
 
-.5 对PhatomJS封装的库[nightmare](http://www.nightmarejs.org/)，可以模拟用户操作。
+.5 对PhatomJS封装的库[nightmare](http://www.nightmarejs.org/)，可以模拟用户操作。今天听了关于stream的分享 感觉很不错。
 
 .6 基于[raphaeljs](http://raphaeljs.com/)，实现了简单SVG的ring图表。携程的[webkit-css](http://ued.ctrip.com/webkitcss/)指南，很不错
 
 .7 慢慢上手了SVG，之前一直对svg有种恐惧感，实现之后又觉得都没什么难的，这种感觉真的挺奇怪的。
+
+.8 语意化版本[semver](http://semver.org/lang/zh-CN/)。
