@@ -210,4 +210,4 @@
 
 .7 慢慢上手了SVG，之前一直对svg有种恐惧感，实现之后又觉得都没什么难的，这种感觉真的挺奇怪的。
 
-.8 语意化版本[semver](http://semver.org/lang/zh-CN/)。
+.8 语意化版本[semver](http://semver.org/lang/zh-CN/)。github上的开源[VG教程](https://github.com/willianjusten/awesome-svg)
