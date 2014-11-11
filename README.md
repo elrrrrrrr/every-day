@@ -210,4 +210,10 @@
 
 .7 慢慢上手了SVG，之前一直对svg有种恐惧感，实现之后又觉得都没什么难的，这种感觉真的挺奇怪的。
 
-.8 语意化版本[semver](http://semver.org/lang/zh-CN/)。github上的开源[VG教程](https://github.com/willianjusten/awesome-svg)
+.8 语意化版本[semver](http://semver.org/lang/zh-CN/)。github上的开源[SVG教程](https://github.com/willianjusten/awesome-svg)
+
+.9 不知道是写写小玩意 还是继续看源码，有点纠结，然后时间就荒废了。最近业务一直不熟悉，等空下来，一定要整理整理啦！
+
+.10 手动管理了[RaphaelJS]和[eve]的依赖，项目结束可以重构一下，publish到spm上
+
+.11 发现了知乎的NODE[API](https://github.com/shanelau/zhihu)
