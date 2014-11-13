@@ -219,3 +219,5 @@
 .11 发现了知乎的NODE[API](https://github.com/shanelau/zhihu), [有 Github 帐号 ≠ Github](http://my.oschina.net/ryanhoo/blog/336695)自我监督..
 
 .12 用Raphael实现 图片圆形遮罩 感谢@桐杰 -> [gist](https://gist.github.com/elrrrrrrr/a9209a66b43dace5b408)
+
+.13 ProParty @宗渊分享关于 Buffer 相关内容
