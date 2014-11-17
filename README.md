@@ -225,3 +225,5 @@
 .14 工作好忙 T T 自己估时太乐观了..
 
 .15 @再飞的[cssfun](https://github.com/simaQ/cssfun)
+
+.16 终于这一天还是来了，接入[JSHint](http://www.jshint.com/)，做一个有追求的coder :smile:
