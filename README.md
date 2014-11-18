@@ -227,3 +227,5 @@
 .15 @再飞的[cssfun](https://github.com/simaQ/cssfun)
 
 .16 终于这一天还是来了，接入[JSHint](http://www.jshint.com/)，做一个有追求的coder :smile:
+
+.17 CO发布了新版本, 将thunk替换为promise, @ELFVision写了一篇[介绍](http://www.html-js.com/article/2424)
