@@ -242,4 +242,4 @@
 
 .23 使用[CSS3PIE](http://css3pie.com/)在IE8下使用`border－radius`,基于IE behavier，需要将整个文件夹解压。
 
-.24 准备将every-status升级成koa
+.24 准备将every-status升级成koa, [函数式编程和面向对象编程](http://stackoverflow.com/questions/2078978/functional-programming-vs-object-oriented-programming)
