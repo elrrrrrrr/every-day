@@ -230,4 +230,16 @@
 
 .17 CO发布了新版本, 将thunk替换为promise, @ELFVision写了一篇[介绍](http://www.html-js.com/article/2424)
 
-.18 [CO]发布了0.4版 用promise取代了thunkjs，非常不错的[介绍](http://www.html-js.com/article/2424)
+.18 @桐杰教了下[co简单实现](https://gist.github.com/elrrrrrrr/4eb0fdadc59b2045e192)，之前对generator理解一直有错。
+
+.19 用[柯里化](https://gist.github.com/elrrrrrrr/2c2a87e214647951d7b7)解决promise then方法中，需要扩展参数的情况。
+
+.20 ** yield delegate **
+
+.21 重新学习chopper源代码，感觉合理的分层结构真的很有必要
+
+.22 最近准备看 `javascript设计模式`, 希望代码的实现能更优雅。
+
+.23 使用[CSS3PIE](http://css3pie.com/)在IE8下使用`border－radius`,基于IE behavier，需要将整个文件夹解压。
+
+.24 准备将every-status升级成koa
