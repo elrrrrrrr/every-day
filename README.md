@@ -250,3 +250,8 @@
 
 .27 今天用注入的方法，完成了路由层的升级，计划用REST Service来组织数据层。
 
+.28 基于koa实现的自动生成数据操纵接口的[datastack](https://github.com/RobinQu/datastack)
+
+.29 loading对于function object实现方式和预期不太一致，有时间去完善一下文档。
+
+.30 更新了一下makeFile，更新了默认端口，可以用make去组织多个sh命令。
