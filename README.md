@@ -262,3 +262,9 @@
 ###  十二月
 
 .1 干活干活干活
+
+.2 完善了loading文档 :)
+
+.3 一个[html5动画生成](http://editor.animatron.com/#new=1)
+
+.4 一些javascript[设计模式](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
