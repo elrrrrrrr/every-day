@@ -270,3 +270,5 @@
 .4 一些javascript[设计模式](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 .5 简单的一次分享关于[Raphael](https://github.com/elrrrrrrr/share)
+
+.6 用Koa实现了第一次对数据库的查询，没有想到卡在了mongoose的createConnection和connect上，可惜save默认不是promise，应该还会有坑。
