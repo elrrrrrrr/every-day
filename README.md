@@ -272,3 +272,9 @@
 .5 简单的一次分享关于[Raphael](https://github.com/elrrrrrrr/share)
 
 .6 用Koa实现了第一次对数据库的查询，没有想到卡在了mongoose的createConnection和connect上，可惜save默认不是promise，应该还会有坑。
+
+.7 工作越来越忙了，希望有机会能参与进chopper开发，使用vundle开始管理vim的插件。
+
+.8 继续开始vim的学习... 阿强推荐的[vim教程](http://blog.csdn.net/niushuai666/article/details/7275406)。今天苏千手把手教了下rebase...
+
+.9 开始写自己的[dotfiles](https://github.com/elrrrrrrr/dotfiles)
