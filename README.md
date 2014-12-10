@@ -278,3 +278,5 @@
 .8 继续开始vim的学习... 阿强推荐的[vim教程](http://blog.csdn.net/niushuai666/article/details/7275406)。今天苏千手把手教了下rebase...
 
 .9 开始写自己的[dotfiles](https://github.com/elrrrrrrr/dotfiles)
+
+.10 今天听了@飞哥关于cluster的分享，还不是特别理解。今天调用[koa-views](https://github.com/queckezz/koa-views)完成了模版层渲染。
