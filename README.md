@@ -280,3 +280,7 @@
 .9 开始写自己的[dotfiles](https://github.com/elrrrrrrr/dotfiles)
 
 .10 今天听了@飞哥关于cluster的分享，还不是特别理解。今天调用[koa-views](https://github.com/queckezz/koa-views)完成了模版层渲染。
+
+.11 前端静态资源部署完毕 :)
+
+.12 新chopper的界面很酷，今天写老业务，发现了[combo](http://aralejs.org/)组件，结合nginx图片生成工具是个不错的解决方案。
