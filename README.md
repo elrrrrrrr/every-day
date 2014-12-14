@@ -284,3 +284,7 @@
 .11 前端静态资源部署完毕 :)
 
 .12 新chopper的界面很酷，今天写老业务，发现了[combo](http://aralejs.org/)组件，结合nginx图片生成工具是个不错的解决方案。
+
+.13 解决了分享的小bug，因为之前忘记更新数据模版。
+
+.14 [JS设计模式](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
