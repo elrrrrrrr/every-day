@@ -294,3 +294,6 @@
 .16 千万要小心null对象。。。
 
 .17 发现了两个不错的js slide交互方案，一个是[deck.js](http://imakewebthings.com/deck.js/)，另外一个是[reval.js](http://lab.hakim.se/reveal-js/#/)
+
+.18 React示例的markdown编译器[showdown](https://github.com/showdownjs/showdown)
+
