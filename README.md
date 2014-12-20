@@ -297,3 +297,6 @@
 
 .18 React示例的markdown编译器[showdown](https://github.com/showdownjs/showdown)
 
+.19 [git-extra](https://github.com/tj/git-extras)
+
+.20 ```rm ~/Library/Preferences/com.apple.HiToolbox.plist```
