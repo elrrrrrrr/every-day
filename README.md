@@ -304,3 +304,5 @@
 .21 [koa源码分析](http://purplebamboo.github.io/2014/05/24/koa-source-analytics-2/)
 
 .22 还是没能逃脱用[handlerbar](http://handlebarsjs.com/block_helpers.html)和[velocity](https://velocity.apache.org/engine/releases/velocity-1.5/user-guide.html).开始写一些简单的shell脚本 :)
+
+.23 感觉shell语法真的挺好玩的，比如判断字符串是否包含，简单实现了自动切换dns的shell，下次写个自动连接服务器的脚本去。
