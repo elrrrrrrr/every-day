@@ -308,3 +308,5 @@
 .23 感觉shell语法真的挺好玩的，比如判断字符串是否包含，简单实现了自动切换dns的shell，下次写个自动连接服务器的脚本去。
 
 .24 github--[zen](https://api.github.com/zen)
+
+.25 终于用上了[iconfont](http://www.iconfont.cn/) 
