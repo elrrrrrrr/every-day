@@ -310,3 +310,5 @@
 .24 github--[zen](https://api.github.com/zen)
 
 .25 终于用上了[iconfont](http://www.iconfont.cn/) 
+
+.26 Hello, Xiamen . 
