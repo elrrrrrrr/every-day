@@ -313,8 +313,8 @@
 
 .26 Hello, Xiamen . 
 
-.27 
+.27 IOS调试工具[MihTool](www.mihtool.com)
 
-.28 
+.28 HTML5历史api封装－[history](https://github.com/browserstate/history.js)
 
 .29 Mark for Gmail . 
