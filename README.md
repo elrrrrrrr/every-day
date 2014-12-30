@@ -318,3 +318,5 @@
 .28 HTML5历史api封装－[history](https://github.com/browserstate/history.js)
 
 .29 Mark for Gmail . 
+
+.30 I hate Xiamen !
