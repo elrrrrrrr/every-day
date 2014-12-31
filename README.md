@@ -4,6 +4,8 @@
 
 ##  日历
 
+### 月
+
 * -[x] [八月](#Aug)
 
 * -[x] [九月](#Sep)
@@ -12,7 +14,9 @@
 
 * -[x] [十一月](#Nov)
 
-* -[ ] [十二月](#Dec)
+* -[x] [十二月](#Dec)
+
+* -[x] [一月](#Jan)
 
 <a  name="Aug"></a>
 ###  八月
@@ -320,3 +324,10 @@
 .29 Mark for Gmail . 
 
 .30 I hate Xiamen !
+
+.31 x = (name_1, vision_3); # this is a comment .
+
+<a  name="Jan"></a>
+### 一月
+
+.1 发现了不错的两个zhsrc，[shonenada/dotfiles](https://bitbucket.org/shonenada/dotfiles/src/a97820137208c88797573335c335c399b10cd56e/vimrc/vimrc?at=master)还有[taizilongxu](https://github.com/taizilongxu/dotfiles/blob/master/vimrc)
