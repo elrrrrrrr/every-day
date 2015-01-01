@@ -330,4 +330,6 @@
 <a  name="Jan"></a>
 ### 一月
 
-.1 发现了不错的两个zhsrc，[shonenada/dotfiles](https://bitbucket.org/shonenada/dotfiles/src/a97820137208c88797573335c335c399b10cd56e/vimrc/vimrc?at=master)还有[taizilongxu](https://github.com/taizilongxu/dotfiles/blob/master/vimrc)
+.1 发现了不错的两个vimrc，[shonenada/dotfiles](https://bitbucket.org/shonenada/dotfiles/src/a97820137208c88797573335c335c399b10cd56e/vimrc/vimrc?at=master)还有[taizilongxu](https://github.com/taizilongxu/dotfiles/blob/master/vimrc)
+
+.2 还在艰难的学习VIM，发现VIM插件和node-modules一样，可以直接看路径下的doc文件夹，今天在看Emmet-vim和NERDTree，确实很强大，习惯还是需要时间慢慢适应。
