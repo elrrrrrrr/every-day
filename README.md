@@ -217,6 +217,7 @@
 .7 慢慢上手了SVG，之前一直对svg有种恐惧感，实现之后又觉得都没什么难的，这种感觉真的挺奇怪的。
 
 .8 语意化版本[semver](http://semver.org/lang/zh-CN/)。github上的开源[SVG教程](https://github.com/willianjusten/awesome-svg)
+B
 
 .9 不知道是写写小玩意 还是继续看源码，有点纠结，然后时间就荒废了。最近业务一直不熟悉，等空下来，一定要整理整理啦！
 
@@ -333,3 +334,9 @@
 .1 发现了不错的两个vimrc，[shonenada/dotfiles](https://bitbucket.org/shonenada/dotfiles/src/a97820137208c88797573335c335c399b10cd56e/vimrc/vimrc?at=master)还有[taizilongxu](https://github.com/taizilongxu/dotfiles/blob/master/vimrc)
 
 .2 还在艰难的学习VIM，发现VIM插件和node-modules一样，可以直接看路径下的doc文件夹，今天在看Emmet-vim和NERDTree，确实很强大，习惯还是需要时间慢慢适应。
+
+.3 非常好的vim插件网站--[vimawesome](http://vimawesome.com/)
+
+.4 强大的自动补全插件--[NeoComplete](://github.com/Shougo/neocomplete.vim) 需要`brew install vim --with-lua`
+
+.5 感觉xbox很强大，尤其对iframe支持很好，前端写的有点少 0.0 都开始手生了。
