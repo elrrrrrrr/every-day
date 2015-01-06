@@ -340,3 +340,5 @@ B
 .4 强大的自动补全插件--[NeoComplete](://github.com/Shougo/neocomplete.vim) 需要`brew install vim --with-lua`
 
 .5 感觉xbox很强大，尤其对iframe支持很好，前端写的有点少 0.0 都开始手生了。
+
+.6 记住今天。
