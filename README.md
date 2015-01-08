@@ -343,4 +343,6 @@ B
 
 .6 记住今天。
 
-.7 `git stash`
+.7 git stash
+
+.8 git config --global core.editor "vm"
