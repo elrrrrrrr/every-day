@@ -346,3 +346,5 @@ B
 .7 git stash
 
 .8 git config --global core.editor "vm"
+
+.9 重用jade和stylus感动得想哭
