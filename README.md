@@ -348,3 +348,5 @@ B
 .8 git config --global core.editor "vm"
 
 .9 重用jade和stylus感动得想哭
+
+.10 [codezen](https://github.com/elrrrrrrr/zen)发布了第一个版本，`npm i -g codezen` -fetch 可以继续采集信息，当作是对自己的警示哟
