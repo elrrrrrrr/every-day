@@ -350,3 +350,5 @@ B
 .9 重用jade和stylus感动得想哭
 
 .10 [codezen](https://github.com/elrrrrrrr/zen)发布了第一个版本，`npm i -g codezen` -fetch 可以继续采集信息，当作是对自己的警示哟
+
+.11 Firefox is a bit severer than other browsers, and need you to define your function before calling it .
