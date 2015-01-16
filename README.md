@@ -352,3 +352,13 @@ B
 .10 [codezen](https://github.com/elrrrrrrr/zen)发布了第一个版本，`npm i -g codezen` -fetch 可以继续采集信息，当作是对自己的警示哟
 
 .11 Firefox is a bit severer than other browsers, and need you to define your function before calling it .
+
+.12 可以用expect写个自动配置环境的工具啦，每次敲密码真的是太烦了。 
+
+.13 项目里用了下1px的渐变色线条，image-slice和image-border真的很酷炫，感觉离css3好遥远...
+
+.14 终于有机会开始写controller了 :)
+
+.15 [iHost](http://www.atatech.org/articles/27860?commentId=45808&msgid=306251&rnd=12270413)非常好用的host切换工具。
+
+
