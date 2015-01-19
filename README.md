@@ -362,3 +362,7 @@ B
 .15 [iHost](http://www.atatech.org/articles/27860?commentId=45808&msgid=306251&rnd=12270413)非常好用的host切换工具。
 
 .16 Have a REST . 
+
+.17 koa通过fs.createReadStream或者直接设置body的形式可以直接返回buffer内容。
+
+.18 贯高的[JSLint实践](https://github.com/popomore/jshint-practice)，这次需求刚好用起来 : )
