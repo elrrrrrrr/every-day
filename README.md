@@ -366,3 +366,5 @@ B
 .17 koa通过fs.createReadStream或者直接设置body的形式可以直接返回buffer内容。
 
 .18 贯高的[JSLint实践](https://github.com/popomore/jshint-practice)，这次需求刚好用起来 : )
+
+.19 今天试用了下pageMock, 从模版层和controlller可以灵活很多，感觉最近编码时间好少，加油 T T
