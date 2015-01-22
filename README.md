@@ -370,3 +370,5 @@ B
 .19 今天试用了下pageMock, 从模版层和controlller可以灵活很多，感觉最近编码时间好少，加油 T T
 
 .20 Vim粘代码还真是挺难的。
+
+.21 多细心 少commit T T 
