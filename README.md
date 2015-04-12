@@ -18,6 +18,8 @@
 
 * -[x] [一月](#Jan)
 
+* -[x] [四月](#Apr)
+
 <a  name="Aug"></a>
 ###  八月
 
@@ -374,3 +376,10 @@ B
 .21 多细心 少commit T T 
 
 .22 哎 不喜欢用less
+
+
+<a  name="Apr"></a>
+### 四月 
+
+.12 关于ES6，[Arrow Function](http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/)，还是要小心this作用域。
+
