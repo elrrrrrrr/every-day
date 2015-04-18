@@ -384,3 +384,5 @@ B
 .12 关于ES6，[Arrow Function](http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/)，还是要小心this作用域。
 
 .13 计划慢慢看ES6，今天看了basic，以后多用Object.is，let,const管理作用域挺好的～ 不过 object destructing 感觉用起来好诡异，好不习惯呀
+
+.18 gulp插件[指南](https://github.com/gulpjs/gulp/blob/master/docs/writing-a-plugin/guidelines.md)
