@@ -386,3 +386,5 @@ B
 .13 计划慢慢看ES6，今天看了basic，以后多用Object.is，let,const管理作用域挺好的～ 不过 object destructing 感觉用起来好诡异，好不习惯呀
 
 .18 gulp插件[指南](https://github.com/gulpjs/gulp/blob/master/docs/writing-a-plugin/guidelines.md)
+
+.30 chrome的vim插件，[Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb), javascript 设计模式，[在线](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
