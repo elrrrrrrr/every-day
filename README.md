@@ -20,6 +20,8 @@
 
 * -[x] [四月](#Apr)
 
+* -[x] [五月](#May)
+
 <a  name="Aug"></a>
 ###  八月
 
@@ -388,3 +390,8 @@ B
 .18 gulp插件[指南](https://github.com/gulpjs/gulp/blob/master/docs/writing-a-plugin/guidelines.md)
 
 .30 chrome的vim插件，[Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb), javascript 设计模式，[在线](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+<a  name="May"></a>
+### 五月 
+
+.14 今天听了@承玉的ReactTalk，感觉很酷，真想抽点时间好好学习。
